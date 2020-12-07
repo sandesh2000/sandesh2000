@@ -27,5 +27,9 @@
 ### Cloud Technologies
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+
+### Data Science
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+
 ### Interesting stats
 <p> Yet to upload...</p>
